@@ -1,6 +1,7 @@
 - 👋  Hi, I'm @tmerven
 
 - 👀 I’m interested in ...
+- Spring Boot 2.6
 - Kotlin 1.5
 - Java 11
 - Cloud GCP/AWS
