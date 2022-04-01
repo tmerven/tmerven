@@ -1,10 +1,10 @@
 - 👋  Hi, I'm @tmerven
 
 - 👀 I’m interested in ...
-- Java
-- Kotlin
+- Kotlin 1.5
+- Java 11
 - Cloud GCP/AWS
-- Groovy
+- Groovy / Spock
 ------------
 - 🌱  **Kotlin** is king
 - 📫 Please reach me at thierry.merven@gmail.com
