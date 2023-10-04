@@ -1,9 +1,9 @@
 - 👋  Hi, I'm @tmerven
 
 - 👀 I’m interested in ...
-- Kotlin 1.8
+- Kotlin 1.9
+- ktor 2
 - http4k
-- ktor
 - Java 11/17
 - Spring Boot
 - Cloud GCP/AWS
